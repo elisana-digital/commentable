@@ -1,6 +1,6 @@
 {
-    "name": "artisanry/commentable",
-    "description": "Commentable Polymorphic Eloquent Models for for Laravel 5",
+    "name": "elisana-digital/commentable",
+    "description": "Commentable Polymorphic Eloquent Models for for Laravel 6",
     "keywords": [
         "laravel",
         "framework",
